@@ -1,0 +1,8 @@
+site_name: Getting Started with MkDocs
+nav:
+  - Home: index.md
+  - About: firstPage.md
+  - FAQ: secondpage.md
+  - How to Use MkDocs:
+      - Installation: docs/Installation/thirdpage.md
+      - Setup: docs/Installation/fourthpage.md
